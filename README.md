@@ -35,3 +35,7 @@ Static analysis tools
 Custom PoC scripts
 
 GitHub security documentation workflow
+
+## Highlighted Findings
+
+EndpointV2 refund accounting issue allowing permissionless withdrawal of contract-held tokens (severity downgraded during triage)
